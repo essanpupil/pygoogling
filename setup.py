@@ -25,6 +25,6 @@ setup(
         'Programming Language :: Python :: 2.7',
     ],
     keywords='google search python module',
-    py_modules=['pygoogling/googling.py'],
+    py_modules=['pygoogling.googling'],
     install_requires=['bs4','requests','html5lib'],
 )
