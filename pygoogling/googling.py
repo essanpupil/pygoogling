@@ -57,7 +57,7 @@ class GoogleSearch(object):
         try:
             self.request_page = requests.get(url)
         except requests.ConnectionError:
-            print "Connection to %s failed" % (str(url))
+            print("Connection to %s failed" % (str(url)))
         self.current_html_page = self.request_page.text
         soup = BeautifulSoup(self.current_html_page, "html5lib")
         results = soup.find_all('a', class_=False)
