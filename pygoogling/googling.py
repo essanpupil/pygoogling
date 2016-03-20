@@ -1,6 +1,6 @@
 """Python module to scrap google search result page."""
-import requests
 from bs4 import BeautifulSoup
+import requests
 
 
 class GoogleSearch(object):
