@@ -82,5 +82,4 @@ https://www.continuum.io/downloads
 http://greenteapress.com/wp/think-python/
 https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x-0
 http://pythonnet.sourceforge.net/
-http://www.diveintopython.net/
 ```
