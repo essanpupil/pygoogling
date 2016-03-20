@@ -1,7 +1,7 @@
 # pygoogling
 Using google search engine from python
 
-## Instalation
+## Installation
 I haven't upload this to pypi yet. But you can install this package by  
 following this instruction bellow.
 ```
@@ -11,10 +11,8 @@ python setup.py install
 ```
 ## Usage
 ```
-from pygoogling.googling import GoogleSearch
-
-
-googling = GoogleSearch('python')
+>>> from pygoogling.googling import GoogleSearch
+>>> googling = GoogleSearch('python')
 
 # max_page is optional, by default the value will be 1
 googling.start_search(max_page=1)
