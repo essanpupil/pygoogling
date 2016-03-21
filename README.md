@@ -1,4 +1,5 @@
 # pygoogling
+[![Documentation Status](https://readthedocs.org/projects/pip/badge/)](http://pygoogling.readthedocs.org/en/latest/)
 Using google search engine from python
 
 ## Installation
