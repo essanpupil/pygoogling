@@ -11,7 +11,7 @@ with open_codec(path.join(HERE, 'README.md'), encoding='utf-8') as f:
 
 setup(
     name='pygoogling',
-    version='0.0.1',
+    version='0.0.2',
     description='Python library to do google search',
     long_description=LONG_DESCRIPTION,
     url='https://github.com/essanpupil/pygoogling',
@@ -24,6 +24,7 @@ setup(
         'Topic :: Software Development :: Libraries :: Python Modules',
         'License :: OSI Approved :: MIT License',
         'Programming Language :: Python :: 2.7',
+        'Programming Language :: Python :: 3.4',
     ],
     keywords='google search python module',
     py_modules=['pygoogling.googling'],
