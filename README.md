@@ -1,4 +1,5 @@
 # pygoogling
+[![Code Issues](https://www.quantifiedcode.com/api/v1/project/bfbfe707e09b4f109913969336393abf/badge.svg)](https://www.quantifiedcode.com/app/project/bfbfe707e09b4f109913969336393abf)  
 Using google search engine from python
 
 ## Tested python version
