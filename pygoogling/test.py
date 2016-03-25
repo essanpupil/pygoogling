@@ -10,7 +10,7 @@ from pygoogling.googling import GoogleSearch
 
 class GoogleSearchTestCase(unittest.TestCase):
     """Test module by requesting to google page and parse the result."""
-    def online_testcase(self):
+    def test_online_search(self):
         """this test is intended to not run on every project test.
         If you want to run the test, you should specifically run this method.
         """
