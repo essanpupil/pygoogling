@@ -1,6 +1,9 @@
 ==========
 pygoogling
 ==========
+.. image:: https://badge.fury.io/py/pygoogling.svg
+    :target: https://badge.fury.io/py/pygoogling
+    :alt: pypi package version
 .. image:: https://www.quantifiedcode.com/api/v1/project/bfbfe707e09b4f109913969336393abf/badge.svg
   :target: https://www.quantifiedcode.com/app/project/bfbfe707e09b4f109913969336393abf
   :alt: Code issues
