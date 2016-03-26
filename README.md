@@ -9,7 +9,7 @@ Using google search engine from python
 ## Installation
 I haven't upload this to pypi yet. But you can install this package by  
 following this instruction bellow.
-```
+```shell
 git clone https://github.com/essanpupil/pygoogling.git
 cd pygoogling
 python setup.py install
@@ -18,7 +18,7 @@ python setup.py install
 ## Usage
 For now, this library only contain one class, `GoogleSearch`. Here is a short description to use this library.  
 
-```
+```python
 from pygoogling.googling import GoogleSearch
 
 google_search = GoogleSearch('python')
